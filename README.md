@@ -23,5 +23,6 @@ rails server
 # Specs
 
 * Ruby: 2.6.3
-* Rails: 6.0.0
+* Rails: 6.0.
+* AWS SDK for Ruby v3
 
