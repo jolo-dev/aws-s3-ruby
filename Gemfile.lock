@@ -1,3 +1,17 @@
+GIT
+  remote: https://github.com/rspec/rspec-rails.git
+  revision: dd8f4ecc5f29a2cfee9c177be623e77b13a5508b
+  branch: 4-0-dev
+  specs:
+    rspec-rails (4.0.0.beta2)
+      actionpack (>= 4.2)
+      activesupport (>= 4.2)
+      railties (>= 4.2)
+      rspec-core (~> 3.8)
+      rspec-expectations (~> 3.8)
+      rspec-mocks (~> 3.8)
+      rspec-support (~> 3.8)
+
 GEM
   remote: https://rubygems.org/
   specs:
