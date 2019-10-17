@@ -1,0 +1,7 @@
+<h1><%= @bucketName -%></h1>
+
+<ul>
+   <% @bucket.objects.each do |item| %>
+   <li><%= item.key -%></li>
+   <% end %>
+</ul>
